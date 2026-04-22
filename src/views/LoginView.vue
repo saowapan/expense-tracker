@@ -55,8 +55,7 @@ async function handleLogin() {
         {{ loading ? 'Signing in...' : 'Sign In' }}
       </button>
 
-      <p class="hint">Demo: saowapan / saowapan123</p>
-    </form>
+     </form>
   </div>
 </template>
 
